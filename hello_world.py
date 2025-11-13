@@ -5,3 +5,4 @@ class Main:
     print(self.text)  
   
 m = Main()
+
